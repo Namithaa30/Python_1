@@ -1,0 +1,5 @@
+a=int(input("enter a number : "))
+b=int(input("enter a number: "))
+print("Avg of two numbers are :", (a+b)/2)
+print("square of two numbers are :" , pow(a,3))
+print("square of two numbers are :" , b**3)
